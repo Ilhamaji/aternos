@@ -1,0 +1,9 @@
+{
+	"ip":"vanevo.aternos.me",
+	"port": "25143",
+	"name": "SpidermanNo",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
