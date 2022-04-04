@@ -1,7 +1,7 @@
 {
-	"ip":"vanevo.aternos.me",
-	"port": "25143",
-	"name": "SpidermanNo",
+	"ip":"bukankita.aternos.me",
+	"port": "59181",
+	"name": "Bot",
 	"auto-night-skip":"false",
 	"login-enabled":"false",
 	"register-cmd":"/register pass123 ",
