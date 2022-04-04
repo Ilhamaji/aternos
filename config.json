@@ -1,7 +1,7 @@
 {
-	"ip":"Jojolandtu.aternos.me",
-	"port": "37752",
-	"name": "bot1234vanev",
+	"ip":"bukankita.aternos.me",
+	"port": "59181",
+	"name": "Iruhamu's bot",
 	"auto-night-skip":"false",
 	"login-enabled":"false",
 	"register-cmd":"/register pass123 ",
