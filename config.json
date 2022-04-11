@@ -1,9 +1,0 @@
-{
-	"ip":"bukankita.aternos.me",
-	"port": "59181",
-	"name": "Iruhamu's bot",
-	"auto-night-skip":"false",
-	"login-enabled":"false",
-	"register-cmd":"/register pass123 ",
-	"login-cmd":"/login pass123 "
-}
